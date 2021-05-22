@@ -7,7 +7,7 @@ If you want to test repository you must:
 * Database
   * `create database with name ecommerce_db`
 * Create .env file and set
-  * `DB_DATABASE=ecommerce_db`
+  * `DB_DATABASE=laravel_ecomm`
   * `DB_USERNAME=root`
   * `DB_PASSWORD=`
 * Run by performing on the repo's folder to install all dependencies:
